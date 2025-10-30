@@ -11,7 +11,7 @@
  * 
  * To run the process, run "cat /proc/jiffies"
  * 
- * To remove the module, run "sudo rmmod simple". Compulsory to run this after you load the module (or else it shows the error : "insmod: ERROR: could not insert module simple.ko: File exists
+ * To remove the module, run "sudo rmmod Q1". Compulsory to run this after you load the module (or else it shows the error : "insmod: ERROR: could not insert module simple.ko: File exists
 ")
  * 
  */
